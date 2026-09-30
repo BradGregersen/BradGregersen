@@ -6,8 +6,8 @@ I build Android apps in React Native and TypeScript, and Python tooling for repo
 
 A repo-health audit CLI. Point it at a repository and it detects the stack, runs the checks
 that apply, and writes a state report. Nine language ecosystems, auto-detected from manifest
-files. 346 commits, 1,331 tests. Everything except one optional build mode has run against real
-repositories; the README's Maturity table lists the evidence.
+files. 346 commits, 1,331 tests. The README's Maturity table lists which checks have run against
+real repositories.
 
 ## Adapt — React Native scheduling app (private, pre-release)
 
